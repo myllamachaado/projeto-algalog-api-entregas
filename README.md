@@ -10,12 +10,6 @@ Projeto de sistema de entregas utilizando Java e Spring do curso Mergulho Rest A
 
 
 - Ferramentas e Tecnologias utilizadas
+- 
 
-
-Spring
-Maven
-JPA
-Lombok
-Flyway
-Postman
-MySQL
+Spring, Maven, JPA, Hibernate, Lombok, Flyway, Postman, MySQL
