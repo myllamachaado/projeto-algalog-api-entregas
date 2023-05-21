@@ -8,7 +8,10 @@ Projeto de sistema de entregas utilizando Java e Spring do curso Mergulho Rest A
 2) mvn clean install
 3) mvn spring-boot::run 
 
+
 - Ferramentas e Tecnologias utilizadas
+
+
 Spring
 Maven
 JPA
