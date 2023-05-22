@@ -12,16 +12,10 @@ Projeto de sistema de entregas utilizando Java e Spring do curso Mergulho Rest A
 
 Spring
 
-Maven
-
-JPA
-
-Hibernate
-
-Lombok
-
-Flyway
-
-Postman
-
-MySQL
+- Maven
+- JPA
+- Hibernate
+- Lombok
+- Flyway
+- Postman
+- MySQL
