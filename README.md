@@ -64,3 +64,6 @@ spring.flyway.password=<sua senha>
 `docker-compose up -d`
 
 
+## - Postman collection
+
+A coleção com todos os endpoints para a execução se encontra no próprio projeto com o nome `Algawork.postman_collection.json`. Basta importar o arquivo json no postman para ter acesso a todos os endpoints. 
