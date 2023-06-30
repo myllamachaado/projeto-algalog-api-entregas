@@ -1,4 +1,4 @@
-## Projeto de sistema de entregas utilizando Java e Spring do curso Mergulho Rest Algaworks.
+# Projeto de sistema de entregas utilizando Java e Spring do curso Mergulho Rest Algaworks.
 
 <p align="center">
     <a alt="Java">
@@ -30,7 +30,9 @@
     </a>
 </p>
 
-# - Executando o projeto localmente
+É um sistema básico, criado para o gerenciamento de entregas, por meio do cadastro dos principais dados de uma entrega, o registro dos relacionamentos com o respectivo Cliente e Destinatário, e o controle do fluxo da entrega, por meio do status, com a possibilidade de registrar o histórico de possíveis ocorrencias relacionadas às entregas.
+
+## - Executando o projeto localmente
 
 1)  Faça um clone do repositório:
 `git clone https://github.com/myllamachaado/projeto-algalog-api-entregas.git`
@@ -52,7 +54,7 @@ spring.flyway.password=<sua senha>
 
 
 
-# - Executando o projeto via Docker
+## - Executando o projeto via Docker
 
 1)  Faça um clone do repositório:
 `git clone https://github.com/myllamachaado/projeto-algalog-api-entregas.git`
