@@ -33,7 +33,7 @@ Projeto de sistema de entregas utilizando Java e Spring do curso Mergulho Rest A
 - Executando o projeto localmente
 
 1)  Faça um clone do repositório:
-`git clone [https://github.com/aguiardafa/gerenciamento-entregas-api](https://github.com/myllamachaado/projeto-algalog-api-entregas)`
+`git clone https://github.com/myllamachaado/projeto-algalog-api-entregas.git`
 2) Compile o projeto:
 `mvn clean install`
 3) Ajuste o application.properties para comportaras configurações do seu banco de dados nos seguintes localis:
@@ -53,7 +53,7 @@ spring.flyway.password=<sua senha>
 - Executando o projeto via Docker
 
 1)  Faça um clone do repositório:
-`git clone [https://github.com/aguiardafa/gerenciamento-entregas-api](https://github.com/myllamachaado/projeto-algalog-api-entregas)`
+`git clone https://github.com/myllamachaado/projeto-algalog-api-entregas.git`
 2) Compile o projeto:
 `mvn clean install`
 3)  Execute o projeto:
